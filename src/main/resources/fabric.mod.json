@@ -19,7 +19,7 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "org.oakbricks.diseasemod.ExampleMod"
+      "org.oakbricks.diseasemod.DiseaseMod"
     ]
   },
   "mixins": [
